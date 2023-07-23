@@ -9,4 +9,4 @@ install git
 5) git log :: to know the history of enitre project 
 6) git reset #8559584 hashcode of log history :: will delete all above history data
               ========
-7)
+7)git stash :: is used to hide of shift from half done or not completed or satisfiyed feature or branch so we can 		switch to other branch

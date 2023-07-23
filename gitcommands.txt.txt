@@ -1,0 +1,12 @@
+install git
+
+1) git init :: to innitialize the project go to that folder and use this commmand 
+2)git status :: to know whats going on either files  were added or not added 
+3) git add .  :: to add all the files to git 3.1) git add fillename.ext :: to add fils individually
+                                                  =====================
+4) git commit -m "Your comment on changes made":: this command will commit and save to git history with your comment
+
+5) git log :: to know the history of enitre project 
+6) git reset #8559584 hashcode of log history :: will delete all above history data
+              ========
+7)
